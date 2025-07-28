@@ -9,11 +9,11 @@ This app provides a seamless interface to control and monitor devices across dif
 
 | Guest Room | Kitchen | Living Room |
 |------------|---------|--------------|
-| ![guest room](assets/images/guest_room.jpg) | ![kitchen](assets/images/kitchen.jpg) | ![living room](assets/images/living_room.jpg) |
+| ![guest room](assets/image/guest_room.jpg) | ![kitchen](assets/image/kitchen.jpg) | ![living room](assets/image/living_room.jpg) |
 
 | Menu Icon | Download Button |
 |-----------|------------------|
-| ![menu](assets/images/menu.png) | ![download](assets/images/download.png) |
+| ![menu](assets/image/menu.png) | ![download](assets/image/download.png) |
 
 ---
 
