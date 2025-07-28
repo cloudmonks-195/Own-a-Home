@@ -1,39 +1,34 @@
 # 🏠 Own-a-Home - Smart Home Flutter UI
 
-A modern and responsive Flutter UI for a **Smart Home App**.  
-This application is designed to help users control and monitor their smart devices seamlessly, all through an elegant and intuitive interface.
-
-
----
-
-## 🚀 Features
-
-- 📱 Beautiful and responsive UI design
-- 🔌 Smart device control interface (lights, fans, AC, etc.)
-- 🌓 Light & Dark Mode support
-- 🗂️ Clean folder structure with reusable widgets
-- 🔒 Ready to integrate with Firebase or other backends
+A beautifully designed Flutter UI for a **Smart Home App**.  
+This app provides a seamless interface to control and monitor devices across different rooms.
 
 ---
 
-## 📷 Screenshots
+## 📱 App Preview
 
-| Home Screen | Device Control | Settings |
-|-------------|----------------|----------|
-| ![home](assets/screenshots/home.png) | ![control](assets/screenshots/device.png) | ![settings](assets/screenshots/settings.png) |
+| Guest Room | Kitchen | Living Room |
+|------------|---------|--------------|
+| ![guest room](assets/images/guest_room.jpg) | ![kitchen](assets/images/kitchen.jpg) | ![living room](assets/images/living_room.jpg) |
 
----
-
-## 🛠️ Tech Stack
-
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
-- [Firebase (optional integration)](https://firebase.google.com/)
-- [Provider / Riverpod / BLoC] (for state management - optional)
+| Menu Icon | Download Button |
+|-----------|------------------|
+| ![menu](assets/images/menu.png) | ![download](assets/images/download.png) |
 
 ---
 
-## 📦 Getting Started
+## ✨ Features
+
+- 📱 Multi-room layout (Guest Room, Kitchen, Living Room)
+- 🎨 Beautiful image-based UI with custom icons and assets
+- 🌙 Light & Dark mode ready
+- 🔌 Firebase-ready integration (optional)
+- 🧩 Clean and modular code structure
+- 🖼️ Image assets in `assets/images/`, `assets/images/icons/`, and `assets/images/people/`
+
+---
+
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/cloudmonks-195/Own-a-Home.git
