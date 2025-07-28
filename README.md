@@ -3,7 +3,6 @@
 A modern and responsive Flutter UI for a **Smart Home App**.  
 This application is designed to help users control and monitor their smart devices seamlessly, all through an elegant and intuitive interface.
 
-![banner](assets/screenshots/app_banner.png) <!-- optional, if you have a screenshot -->
 
 ---
 
